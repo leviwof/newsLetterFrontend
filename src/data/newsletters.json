@@ -1,0 +1,147 @@
+[
+    {
+        "_id": "65fdb111111111111111111",
+        "name": "Tech Weekly",
+        "subscribed": false
+    },
+    {
+        "_id": "65fdb222222222222222222",
+        "name": "AI Digest",
+        "subscribed": false
+    },
+    {
+        "_id": "65fdb333333333333333333",
+        "name": "Startup Insider",
+        "subscribed": false
+    },
+    {
+        "_id": "65fdb444444444444444444",
+        "name": "JavaScript Daily",
+        "subscribed": false
+    },
+    {
+        "_id": "65fdb555555555555555555",
+        "name": "React Updates",
+        "subscribed": false
+    },
+    {
+        "_id": "65fdb666666666666666666",
+        "name": "Node.js News",
+        "subscribed": false
+    },
+    {
+        "_id": "65fdb777777777777777777",
+        "name": "DevOps Weekly",
+        "subscribed": false
+    },
+    {
+        "_id": "65fdb888888888888888888",
+        "name": "Cloud Trends",
+        "subscribed": false
+    },
+    {
+        "_id": "65fdb999999999999999999",
+        "name": "Cyber Security Today",
+        "subscribed": false
+    },
+    {
+        "_id": "65fdbaaaaaaaaaaaaaaaaaaa",
+        "name": "Data Science Weekly",
+        "subscribed": false
+    },
+    {
+        "_id": "65fdbbbbbbbbbbbbbbbbbbb",
+        "name": "AI Research Lab",
+        "subscribed": false
+    },
+    {
+        "_id": "65fdbcccccccccccccccccc",
+        "name": "Product Management",
+        "subscribed": false
+    },
+    {
+        "_id": "65fdbdddddddddddddddddd",
+        "name": "UX Design Digest",
+        "subscribed": false
+    },
+    {
+        "_id": "65fdbeeeeeeeeeeeeeeeeee",
+        "name": "Frontend Focus",
+        "subscribed": false
+    },
+    {
+        "_id": "65fdbfffffffffffffffffff",
+        "name": "Backend Bytes",
+        "subscribed": false
+    },
+    {
+        "_id": "65fdc111111111111111111",
+        "name": "System Design Hub",
+        "subscribed": false
+    },
+    {
+        "_id": "65fdc222222222222222222",
+        "name": "Open Source Weekly",
+        "subscribed": false
+    },
+    {
+        "_id": "65fdc333333333333333333",
+        "name": "Python Insider",
+        "subscribed": false
+    },
+    {
+        "_id": "65fdc444444444444444444",
+        "name": "Dev Career Tips",
+        "subscribed": false
+    },
+    {
+        "_id": "65fdc555555555555555555",
+        "name": "AI Product News",
+        "subscribed": false
+    },
+    {
+        "_id": "65fdc666666666666666666",
+        "name": "SaaS Growth",
+        "subscribed": false
+    },
+    {
+        "_id": "65fdc777777777777777777",
+        "name": "Tech Leadership",
+        "subscribed": false
+    },
+    {
+        "_id": "65fdc888888888888888888",
+        "name": "Coding Interview Prep",
+        "subscribed": false
+    },
+    {
+        "_id": "65fdc999999999999999999",
+        "name": "Database Weekly",
+        "subscribed": false
+    },
+    {
+        "_id": "65fdcaaaaaaaaaaaaaaaaaaa",
+        "name": "Cloud Native Digest",
+        "subscribed": false
+    },
+    {
+        "_id": "65fdcbbbbbbbbbbbbbbbbbb",
+        "name": "Startup Funding",
+        "subscribed": false
+    },
+    {
+        "_id": "65fdccccccccccccccccccc",
+        "name": "Web Performance",
+        "subscribed": false
+    },
+    {
+        "_id": "65fdcdddddddddddddddddd",
+        "name": "AI Engineering",
+        "subscribed": false
+    },
+    {
+        "_id": "65fdceeeeeeeeeeeeeeeeee",
+        "name": "Full Stack Digest",
+        "subscribed": false
+    }
+]
